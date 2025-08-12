@@ -1,0 +1,23 @@
+{
+  "prices": {
+    "gun1": 0,
+    "gun2": 900,
+    "gun3": 5000,
+    "medic1": 150,
+    "soul": 50
+  },
+  "labels": {
+    "gun1": "هفت تیر",
+    "gun2": "رایفل",
+    "gun3": "لیزر توفنگ",
+    "medic1": "جون پر کن",
+    "soul": "روح شو"
+  },
+  "images": {
+    "gun1":  "../images/gun.png",
+    "gun2": "../images/gun2.png",
+    "gun3": "../images/gun3.png",
+    "medic1": "../images/medicbox.webp",
+    "soul": "../images/ghost.jpeg"
+  }
+}
