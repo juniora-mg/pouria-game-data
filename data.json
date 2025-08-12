@@ -15,9 +15,9 @@
   },
   "images": {
     "gun1":  "../images/gun.png",
-    "gun2": "رایفل",
-    "gun3": "لیزر توفنگ",
-    "medic1": "جون پر کن",
-    "soul": "روح شو"
+    "gun2": "../images/gun2.png",
+    "gun3": "../images/gun3.png",
+    "medic1": "../images/medicbox.webp",
+    "soul": "../images/ghost.jpeg"
   }
 }
