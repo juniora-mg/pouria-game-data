@@ -1,23 +1,37 @@
-{
-  "prices": {
-    "gun1": 0,
-    "gun2": 900,
-    "gun3": 5000,
-    "medic1": 150,
-    "soul": 50
-  },
-  "labels": {
-    "gun1": "هفت تیر",
-    "gun2": "رایفل",
-    "gun3": "لیزر توفنگ",
-    "medic1": "جون پر کن",
-    "soul": "روح شو"
-  },
-  "images": {
-    "gun1":  "../images/gun.png",
-    "gun2": "../images/gun2.png",
-    "gun3": "../images/gun3.png",
-    "medic1": "../images/medicbox.webp",
-    "soul": "../images/ghost.jpeg"
-  }
-}
+[
+    {
+        "id": "gun1",
+        "type": "gun",
+        "img": "../images/gun.png",
+        "label": "هفت تیر",
+        "price": 0
+    },
+    {
+        "id": "gun2",
+        "type": "gun",
+        "img": "../images/gun2.png",
+        "label": "",
+        "price": 900
+    },
+    {
+        "id": "gun3",
+        "type": "gun",
+        "img": "../images/gun3.png",
+        "label": "",
+        "price": 5000
+    },
+    {
+        "id": "medic1",
+        "type": "power",
+        "img": "../images/medicbox.webp",
+        "label": "",
+        "price": 150
+    },
+    {
+        "id": "soul",
+        "type": "power",
+        "img": "../images/ghost.jpeg",
+        "label": "",
+        "price": 50
+    }
+]
