@@ -10,28 +10,28 @@
         "id": "gun2",
         "type": "gun",
         "img": "../images/gun2.png",
-        "label": "",
+        "label": "رایفل",
         "price": 900
     },
     {
         "id": "gun3",
         "type": "gun",
         "img": "../images/gun3.png",
-        "label": "",
+        "label": "لیزر توفنگ",
         "price": 5000
     },
     {
         "id": "medic1",
         "type": "power",
         "img": "../images/medicbox.webp",
-        "label": "",
+        "label": "جون پر کن",
         "price": 150
     },
     {
         "id": "soul",
         "type": "power",
         "img": "../images/ghost.jpeg",
-        "label": "",
+        "label": "روح شو",
         "price": 50
     }
 ]
