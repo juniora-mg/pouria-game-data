@@ -24,14 +24,14 @@
         "id": "medic1",
         "type": "power",
         "img": "../images/medicbox.webp",
-        "label": "جون پر کن (حراج!)",
-        "price": 0
+        "label": "جون پر کن",
+        "price": 150
     },
     {
         "id": "soul",
         "type": "power",
         "img": "../images/ghost.jpeg",
-        "label": "روح شو (حراج!)",
-        "price": 0
+        "label": "روح شو",
+        "price": 50
     }
 ]
